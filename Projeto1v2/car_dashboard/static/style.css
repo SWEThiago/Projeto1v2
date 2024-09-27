@@ -1,0 +1,131 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #444;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav button {
+    background-color: #555;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+nav button:hover {
+    background-color: #666;
+}
+
+#car-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.car-column {
+    flex: 1;
+    margin: 0 10px;
+    background-color: #eee;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.car-column h2 {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+.car-item {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.car-item:hover {
+    background-color: #f9f9f9;
+}
+
+.car-details {
+    margin-top: 10px;
+    display: none; /* Escondido inicialmente */
+}
+
+.add-button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    font-size: 16px;
+    display: none; /* Escondido inicialmente */
+}
+
+.add-button:hover {
+    background-color: #218838;
+}
+
+button.edit-car, button.remove-car {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 5px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button.remove-car {
+    background-color: #dc3545;
+}
+
+button.edit-car:hover {
+    background-color: #0056b3;
+}
+
+button.remove-car:hover {
+    background-color: #c82333;
+}
+
+/* Responsividade para dispositivos móveis */
+@media (max-width: 768px) {
+    #car-section {
+        flex-direction: column;  /* Alinha as colunas uma embaixo da outra */
+        padding: 10px;
+    }
+
+    .car-column {
+        margin-bottom: 20px;  /* Adiciona espaçamento entre as colunas */
+        padding: 15px;
+    }
+
+    nav button {
+        width: 100%;  /* Botões ocupam a largura total no celular */
+        margin: 5px 0;
+    }
+}

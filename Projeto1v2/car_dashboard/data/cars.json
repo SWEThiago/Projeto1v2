@@ -1,0 +1,175 @@
+{
+    "showroom": [
+        {
+            "marca": "Jeep ",
+            "modelo": "Comander Limited",
+            "cor": "Prata Billite",
+            "motor": "T 270 185c Flex",
+            "ano": 2024,
+            "media_valor_mercado": 244990,
+            "km": 62,
+            "combustivel": {
+                "porcentagem": 7,
+                "observacao": "Flex"
+            }
+        },
+        {
+            "marca": "Ram",
+            "modelo": "Rampage Rebel ",
+            "cor": "Sting Gray",
+            "motor": "L 2.0L TURBODIESEL AT9 4X4",
+            "ano": 2024,
+            "media_valor_mercado": 254990,
+            "km": 62,
+            "combustivel": {
+                "porcentagem": 9,
+                "observacao": "Disel S10"
+            }
+        },
+        {
+            "marca": "Jeep ",
+            "modelo": "Compass Orverland",
+            "cor": "Cinza Granite",
+            "motor": "Hurricane 272c",
+            "ano": 2024,
+            "media_valor_mercado": 266990,
+            "km": 54,
+            "combustivel": {
+                "porcentagem": 7,
+                "observacao": "Flex"
+            }
+        },
+        {
+            "marca": "Jeep ",
+            "modelo": "Renegate TrailHawk ",
+            "cor": "Cinza Granite",
+            "motor": "T270 4X4 185cv ",
+            "ano": 2024,
+            "media_valor_mercado": 173990,
+            "km": 27,
+            "combustivel": {
+                "porcentagem": 8,
+                "observacao": "Flex"
+            }
+        },
+        {
+            "marca": "Jeep ",
+            "modelo": "Compass Longitude",
+            "cor": "",
+            "motor": "Sting Gray",
+            "ano": 2024,
+            "media_valor_mercado": 200990,
+            "km": 13,
+            "combustivel": {
+                "porcentagem": 10,
+                "observacao": "Flex"
+            }
+        },
+        {
+            "marca": "Ram",
+            "modelo": "Rampage Rebel ",
+            "cor": "Prata Billet",
+            "motor": "L 2.0L TURBODIESEL AT9 4X4",
+            "ano": 2024,
+            "media_valor_mercado": 254990,
+            "km": 37,
+            "combustivel": {
+                "porcentagem": 11,
+                "observacao": "Disel S10"
+            }
+        },
+        {
+            "marca": "Ram",
+            "modelo": "Rampage Rebel Ignition limited edition",
+            "cor": "Laranja Ingnition",
+            "motor": "Hurricane 4 272 cv",
+            "ano": 2024,
+            "media_valor_mercado": 254990,
+            "km": 35,
+            "combustivel": {
+                "porcentagem": 17,
+                "observacao": "Gasolina"
+            }
+        }
+    ],
+    "test_drive": [
+        {
+            "marca": "Ram",
+            "modelo": "2500 Laramie",
+            "cor": "Preto Diamond",
+            "motor": "6.7L TURBODIESEL AT6 4X4",
+            "ano": 2024,
+            "media_valor_mercado": 459990,
+            "km": 5165,
+            "combustivel": {
+                "porcentagem": 59,
+                "observacao": "Disel S10"
+            }
+        },
+        {
+            "marca": "Jeep ",
+            "modelo": "Comander BlackHawk",
+            "cor": "Sting Gray",
+            "motor": "Hurricane 2.0 turbo 272c",
+            "ano": 2024,
+            "media_valor_mercado": 327590,
+            "km": 1193,
+            "combustivel": {
+                "porcentagem": 45,
+                "observacao": "Gasolina"
+            }
+        },
+        {
+            "marca": "Jeep ",
+            "modelo": "Compass Blackhawk ",
+            "cor": "Cinza Granite",
+            "motor": "Hurricane 2.0 turbo 272cv",
+            "ano": 2024,
+            "media_valor_mercado": 279990,
+            "km": 7528,
+            "combustivel": {
+                "porcentagem": 52,
+                "observacao": "Gasolina"
+            }
+        },
+        {
+            "marca": "Jeep ",
+            "modelo": "Campass serie S",
+            "cor": "Branco Polar",
+            "motor": "T 270 185 cv Flex",
+            "ano": 2024,
+            "media_valor_mercado": 239990,
+            "km": 1299,
+            "combustivel": {
+                "porcentagem": 45,
+                "observacao": "Flex"
+            }
+        },
+        {
+            "marca": "Jeep ",
+            "modelo": "Renegate Saara",
+            "cor": "Branco Polar",
+            "motor": "T 270 4X2 185 cv",
+            "ano": 2024,
+            "media_valor_mercado": 173990,
+            "km": 973,
+            "combustivel": {
+                "porcentagem": 20,
+                "observacao": "Flex"
+            }
+        },
+        {
+            "marca": null,
+            "modelo": null,
+            "cor": null,
+            "motor": null,
+            "ano": null,
+            "media_valor_mercado": null,
+            "km": null,
+            "combustivel": {
+                "porcentagem": null,
+                "observacao": null
+            }
+        }
+    ]
+}
